@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "328013600361",
+    "project_id": "milestone-1-858a9",
+    "storage_bucket": "milestone-1-858a9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328013600361:android:8c1a22b75ad2b25e5cf4f8",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoeO4yvmw2Pvqt05NKKBcydxijK_MLzl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
