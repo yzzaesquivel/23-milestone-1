@@ -1,5 +1,6 @@
 # 23-milestone-1
 
+# Auth working. Debugging the Trip page
 
 ---> use powershell
 1. firebase login
